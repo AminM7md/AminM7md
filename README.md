@@ -51,12 +51,12 @@
 ## GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=AminM7md&show_icons=true&hide_title=true&theme=transparent&border_color=0b3d91&icon_color=00c2ff&text_color=0b3d91" height="160" alt="GitHub stats" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=AminM7md&theme=transparent&border=0b3d91&stroke=0b3d91&ring=00c2ff&fire=00c2ff&currStreakNum=0b3d91&sideNums=0b3d91&sideLabels=0b3d91&dates=0b3d91" height="160" alt="GitHub streak" />
+	<img src="https://github-readme-stats.vercel.app/api?username=AminM7md&amp;show_icons=true&amp;rank_icon=github&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c2ff&amp;text_color=c9d1d9&amp;icon_color=00c2ff" height="160" alt="GitHub stats" />
+	<img src="https://streak-stats.demolab.com?user=AminM7md&amp;hide_border=true&amp;background=0d1117&amp;ring=00c2ff&amp;fire=00c2ff&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00c2ff&amp;sideLabels=00c2ff&amp;dates=8b949e" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminM7md&layout=compact&theme=transparent&border_color=0b3d91&text_color=0b3d91" height="160" alt="Top languages" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminM7md&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c2ff&amp;text_color=c9d1d9" height="160" alt="Top languages" />
 </p>
 
 ## Achievements
@@ -68,5 +68,5 @@
 ## Contribution Graph
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>

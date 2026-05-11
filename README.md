@@ -51,12 +51,12 @@
 ## GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AminM7md&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c2ff&amp;text_color=c9d1d9&amp;icon_color=00c2ff&amp;cache_seconds=21600" height="160" alt="GitHub stats" />
+	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/profile-summary-card-output/3-stats.svg" height="160" alt="GitHub stats" />
 	<img src="https://streak-stats.demolab.com?user=AminM7md&amp;hide_border=true&amp;background=0d1117&amp;ring=00c2ff&amp;fire=00c2ff&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00c2ff&amp;sideLabels=00c2ff&amp;dates=8b949e" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AminM7md&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00c2ff&amp;text_color=c9d1d9&amp;cache_seconds=21600" height="160" alt="Top languages" />
+	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/profile-summary-card-output/2-most-commit-language.svg" height="160" alt="Top languages" />
 </p>
 
 ## Achievements

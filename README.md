@@ -51,12 +51,12 @@
 ## GitHub Stats
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/profile-summary-card-output/profile-summary-card-output/2077/3-stats.svg" height="160" alt="GitHub stats" />
+	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/main/profile-summary-card-output/github_dark/3-stats.svg" height="160" alt="GitHub stats" />
 	<img src="https://streak-stats.demolab.com?user=AminM7md&amp;hide_border=true&amp;background=0d1117&amp;ring=00c2ff&amp;fire=00c2ff&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00c2ff&amp;sideLabels=00c2ff&amp;dates=8b949e" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/profile-summary-card-output/profile-summary-card-output/2077/2-most-commit-language.svg" height="160" alt="Top languages" />
+	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="160" alt="Top languages" />
 </p>
 
 ## Achievements

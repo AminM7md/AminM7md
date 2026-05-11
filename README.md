@@ -68,5 +68,5 @@
 ## Contribution Graph
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/output/github-contribution-grid-snake-dark.svg?v=1" alt="Contribution snake" />
 </p>

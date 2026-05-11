@@ -15,6 +15,12 @@
 	<img src="https://komarev.com/ghpvc/?username=AminM7md&style=for-the-badge&color=0b3d91" alt="Profile views" />
 </p>
 
+<p align="center">
+	<a href="https://amin-portiflio.aminmohamedkhames.workers.dev/" target="_blank" rel="noopener noreferrer">
+		<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0b3d91?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+	</a>
+</p>
+
 ## About Me
 
 <table align="center">

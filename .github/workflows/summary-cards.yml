@@ -23,4 +23,4 @@ jobs:
           UTC_OFFSET: 0
           AUTO_PUSH: true
         env:
-          GITHUB_TOKEN: ${{ secrets.AminM7md2003 }}
+          GITHUB_TOKEN: ${{ secrets.AMINM7MD2003 }}

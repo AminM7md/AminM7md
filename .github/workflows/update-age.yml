@@ -1,0 +1,65 @@
+name: Update README age
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update age in README
+        run: |
+          python - <<'PY'
+          from datetime import date
+          import re
+
+          path = "README.md"
+          birth = date(2003, 12, 10)
+          today = date.today()
+          age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
+
+          with open(path, "r", encoding="utf-8") as f:
+            text = f.read()
+
+          def replace_block(source, start, end, replacement):
+            pattern = re.compile(re.escape(start) + r"(.*?)" + re.escape(end), re.DOTALL)
+            if not pattern.search(source):
+              raise SystemExit("Age markers not found in README.md")
+            return pattern.sub(start + replacement + end, source)
+
+          text = replace_block(
+            text,
+            "<!-- AGE_BADGE_START -->",
+            "<!-- AGE_BADGE_END -->",
+            "\n  <img src=\"https://img.shields.io/badge/Age-{}-00c2ff?style=for-the-badge\" alt=\"Age badge\" />\n  ".format(age),
+          )
+
+          text = replace_block(
+            text,
+            "<!-- AGE_TEXT_START -->",
+            "<!-- AGE_TEXT_END -->",
+            str(age),
+          )
+
+          with open(path, "w", encoding="utf-8") as f:
+            f.write(text)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: update age"
+          git push

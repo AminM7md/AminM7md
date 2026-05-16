@@ -8,7 +8,7 @@
 
 <p align="center">
 	<!-- AGE_BADGE_START -->
-  <img src="https://img.shields.io/badge/Age-22-FFD700?style=for-the-badge" alt="Age badge" />
+  <img src="https://img.shields.io/badge/Age-22-00c2ff?style=for-the-badge" alt="Age badge" />
   <!-- AGE_BADGE_END -->
 	<img src="https://img.shields.io/badge/Role-Software%20Engineer-D4AF37?style=for-the-badge" alt="Role badge" />
 	<img src="https://img.shields.io/badge/Focus-Flutter-D4AF37?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge" />

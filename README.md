@@ -1,23 +1,23 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:00c2ff&height=180&section=header&text=Amin%20Mohamed%20Khames&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B7500,100:FFD700&height=180&section=header&text=Amin%20Mohamed%20Khames&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Flutter+Developer;Building+Clean%2C+Fast+Mobile+Apps" alt="Typing animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Software+Engineer;Flutter+Developer;Building+Clean%2C+Fast+Mobile+Apps" alt="Typing animation" />
 </p>
 
 <p align="center">
 	<!-- AGE_BADGE_START -->
-  <img src="https://img.shields.io/badge/Age-22-00c2ff?style=for-the-badge" alt="Age badge" />
+  <img src="https://img.shields.io/badge/Age-22-FFD700?style=for-the-badge" alt="Age badge" />
   <!-- AGE_BADGE_END -->
-	<img src="https://img.shields.io/badge/Role-Software%20Engineer-0b3d91?style=for-the-badge" alt="Role badge" />
-	<img src="https://img.shields.io/badge/Focus-Flutter-00aaff?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge" />
-	<img src="https://komarev.com/ghpvc/?username=AminM7md&style=for-the-badge&color=0b3d91" alt="Profile views" />
+	<img src="https://img.shields.io/badge/Role-Software%20Engineer-D4AF37?style=for-the-badge" alt="Role badge" />
+	<img src="https://img.shields.io/badge/Focus-Flutter-D4AF37?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge" />
+	<img src="https://komarev.com/ghpvc/?username=AminM7md&style=for-the-badge&color=FFD700" alt="Profile views" />
 </p>
 
 <p align="center">
 	<a href="https://amin-portiflio.aminmohamedkhames.workers.dev/" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0b3d91?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+		<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 	</a>
 </p>
 
@@ -58,7 +58,7 @@
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/AminM7md/AminM7md/main/profile-summary-card-output/github_dark/3-stats.svg" height="160" alt="GitHub stats" />
-	<img src="https://streak-stats.demolab.com?user=AminM7md&amp;hide_border=true&amp;background=0d1117&amp;ring=00c2ff&amp;fire=00c2ff&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=00c2ff&amp;sideLabels=00c2ff&amp;dates=8b949e" height="160" alt="GitHub streak" />
+	<img src="https://streak-stats.demolab.com?user=AminM7md&amp;hide_border=true&amp;background=0d1117&amp;ring=FFD700&amp;fire=FFD700&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;currStreakLabel=FFD700&amp;sideLabels=FFD700&amp;dates=8b949e" height="160" alt="GitHub streak" />
 </p>
 
 <p align="center">
